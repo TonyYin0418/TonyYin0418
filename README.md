@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-Name: Yuwendong Yin
+- 🌱 I’m currently learning in Wuhan University 
+
 <!--
 **TonyYin0418/TonyYin0418** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
