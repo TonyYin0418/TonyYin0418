@@ -22,10 +22,6 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTonyYin0418&count_bg=%23000000&title_bg=%231F1F1F&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true"/ alt="hit" />
-</div>
-
-<div align="center">
 <img href="https://codetime.dev" alt="CodeTime Badge" src="https://img.shields.io/endpoint?style=for-the-badge&color=123&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D31428%26project%3D%26in=0">
 </div>
 
