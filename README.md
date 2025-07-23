@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<p align="center"><em>Statistics starting from February 6, 2025.</em></p>
+
 -->
 
 <div align="center">
@@ -24,4 +27,3 @@ Here are some ideas to get you started:
 </div>
 
 
-<p align="center"><em>Statistics starting from February 6, 2025.</em></p>
